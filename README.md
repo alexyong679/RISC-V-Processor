@@ -8,6 +8,4 @@ with Icarus Verilog and GTKWave.
 I'm building it one instruction class at a time (R-type, loads, ALU-immediate,
 stores, branches, JAL/JALR, LUI/AUIPC), and each class has its own testbench.
 
-**Status:** ALU done and verified. Register file in progress.
-
 **Tools:** Verilog-2005, Icarus Verilog, GTKWave
